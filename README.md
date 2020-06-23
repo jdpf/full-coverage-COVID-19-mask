@@ -4,6 +4,8 @@ Copyright 2020 Jonathan Ferguson.
 Licensed under the Creative Commons, Attribution Share-Alike license (CC-BY-SA). http://creativecommons.org/licenses/by-sa/4.0/
 If you make substantial changes to the pattern, please share them.
 
+You will find the latest version of this project at: https://github.com/jdpf/full-coverage-COVID-19-mask
+
 ## Features
 
 This COVID-19 mask is designed for those who want a mask that:
